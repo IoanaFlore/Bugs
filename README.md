@@ -33,6 +33,7 @@ Account was created with success without error message.
 P5-Low
 **Title**
 Button "Login or register" don't have same format like there's buttons.
+
 **Description**
 Button "Login or register" from bar menu doesn't have same format, all buttons have caps lock.
 
