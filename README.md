@@ -71,3 +71,22 @@ A error message " You introduce too many products".
 **Actual result**
 No error message and a user can check order.
 
+------------------------------------------------------------------------------------------
+**Priority and Severity**
+P1-High
+
+**Title**
+An user can add products in cart when user is not logged 
+
+**Description**
+An user is not logged and he canadd products in cart
+
+**Steps to Reproduce**
+1. Go to https://automationteststore.com/
+2. Add products in cart
+
+**Expected result**
+
+**Actual result**
+An user can add products in cart when the user is not logged.
+
